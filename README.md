@@ -1,2 +1,2 @@
 # odin-recipes
-My Recipes project assignment from The Odin Project
+My Recipes project assignment from The Odin Project. The product of this assignment is a small webpage featuring a couple of recipes, which can be navigated to using links. This assignment shows basic HTML skills which involves writing HTML manually, correct usage of tags and correct file structure usage.
